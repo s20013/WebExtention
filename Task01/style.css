@@ -1,0 +1,52 @@
+<@charset "UTF-8";>
+
+body{
+	line-height: 1,7;
+}
+
+
+.headline{
+	color: pink;
+	font-size: 40px;
+	text-align: center;
+}
+
+
+p{
+	font-size: 24px;
+	text-align: center;
+	margin: 0;
+	font-weight: 900;
+	color: white;
+	background-color: black;
+}
+
+a:visited{
+	color: black;
+}
+a:hover{
+	color:#ff7043;
+}
+a:active{
+	color:#26a69a;
+}
+
+
+
+div{
+	text-align: right:
+}
+
+
+
+table{
+	border-collapse: collapse;
+	color: brown;
+	margin-left: 0;
+	margin-right: auto;
+}
+
+th,td{
+	border: 1px solid #8fbac8;
+	padding: 8PX;
+}
